@@ -8,5 +8,9 @@ Here is the implementation of algorithms such as "Depth First Search", "Breadth 
   <li>The Floyd Warshall Algorithm:<a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%B8%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%202.%20%D0%9B%D0%B0%D0%B1%D0%BE%D0%B0%D1%80%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.%20%D0%93%D1%80%D0%B0%D1%84%D1%8B.docx"> Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab04.cpp">Solution</a></li>
   <li>Minimum spanning tree:<a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%E2%84%965.docx"> Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab05.cpp">Solution</a></li>
   <li>Hoffman 's Algorithm: <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1">Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/tree/master/lab06">Solution</a></li>  
+  <li>Increasing subsequence: <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80_2_%D0%9B%D0%B0%D0%B1%D0%BE%D0%B0%D1%80%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_7.docx">Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab07.cpp">Solution</a></li> 
 </ul>
 
+<!--
+<li><a href="">Task</a> | <a href="">Solution</a></li>  
+-->
