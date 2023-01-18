@@ -9,8 +9,9 @@ Here is the implementation of algorithms such as "Depth First Search", "Breadth 
   <li>Minimum spanning tree:<a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%E2%84%965.docx"> Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab05.cpp">Solution</a></li>
   <li>Hoffman 's Algorithm: <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1">Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/tree/master/lab06">Solution</a></li>  
   <li>Increasing subsequence: <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80_2_%D0%9B%D0%B0%D0%B1%D0%BE%D0%B0%D1%80%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_7.docx">Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab07.cpp">Solution</a></li> 
+  <li>Knapsack problem: <a href="">Task</a> | <a href="">Solution</a></li>  
 </ul>
 
 <!--
-<li><a href="">Task</a> | <a href="">Solution</a></li>  
+<li><a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80_2_%D0%9B%D0%B0%D0%B1%D0%BE%D0%B0%D1%80%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_8_%D0%A0%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA.docx">Task</a> | <a href="https://github.com/zephyrXXX/Algorithms-and-data-structures-part1/blob/master/lab08.cpp">Solution</a></li>  
 -->
